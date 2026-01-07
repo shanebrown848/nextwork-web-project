@@ -1,0 +1,31 @@
+<settings>
+<servers>
+  <server>
+    <id>nextwork848-nextwork-devops-cicd848</id>
+    <username>aws</username>
+    <password>eyJ2ZXIiOjEsImlzdSI6MTc2NzgxMTIxNCwiZW5jIjoiQTEyOEdDTSIsInRhZyI6Il9GSklTakd3Z0VoSGFna2VrQWt6UnciLCJleHAiOjE3Njc4NTQ0MTQsImFsZyI6IkExMjhHQ01LVyIsIml2IjoiUGt5MDlrTFUwN2pJRFRzQyJ9.Or3gt0PiZx5dn84LIjSAOQ.xilAYBuisD3kjyFZ.XWA_emCQPgkINEn3pjxIncMdpjJjVT9xV5miVUpObj3iXAbfRZqi94YHynyzk_I1QAHvSlZiHq2c0lLp_AGGuLakyDX0lNt0cQtfDv6MOeZjtcrEtMHGp9If-DmQAcl_KHTTRPvGo_2KVty7PKIkpgUvgFwEON9XVwdYsZO63-nGS-AlunD9oYDMP3ieLzh8c50FShHM31go-0m1bnhbsaPHyuN5KpPVYdCZuYqhdTzQE7baF5DqlgRN__16dojVMnlgi8PxyjWBPa1ZXXK9iPc4Z1UIW4Tj05IuPLh06ZkvFeWcGgHXi0xxQJiWdDi2C7cEzDSEVLGwtQox_napcP-lA-8STt46_L30TBLZk87H36wNzli1v7CjqA-pNtMe4k_Z_AWn4w5TTifsf5wNqT7STGZIqVdEr2kF2l_d8HXLNmOWVKo_bcly2b0Hzp1HICu8UiudLQh_9VoARV1-pDdcN6z7PZ5FpE5ebOgKTqoTxBpzpdQr7hwyKoLLHweQtCA-plnHukdSVX7jBuLMklRHeXXaIciSRxsrCY1xFPMUaSXCZAMxKTdtUvXoZVgiaXgwkt7M8hqYZY56cLTs2NZbDXURwhbJzWMwP-rdCw1MSuFhrWwXi9a90OxbGv-m2n9oxpoDzEEb8HR1GYRj8IXd3iUhszHPy1A3qXu0KKCz8DCGsnzTJPbCen7jzgAGjT41VDkt_EInt4tFgzLcoSSNT-C2O_cp-Vyue66xC_YWMNzs5TSIKNbjIuzfBO6OIDkQkrwCBwbBRsF9nUCjEfT4qzAcM3onN8QJuoht95-vlZ6MADM8IfMJnb1S1nmagN2ggnV97vcodKlM5A0hij-FQzn4-fK4VnYtoFE0fxlvSTWh0T-X2ObhxA3J-fUxTnmgWpw5f4kfJ9B_HSsfLP9l0tOE5IDFl1yTZTw1C77oC3ilVf1kEYqZGdNEyxyHkDn-n552qHueMJm-0agoVQgCGSmuBmYUGeWBtd0bJSEhT6DZjKevgioqMABNEHPA6IKrruMGrA1lgLA1fwKHZ4O5wzBkht_kucMlRxFA9xBqK0U05eRZlX_STnUdtLyXFsfOv0QCgWoJPyiPjf8rOa6EzdoTwzn7jsA--ERwQ7Zi2AlNDJ2Lt4CYyKM7y205-FpBeBWDeiO62CF9BIHaZTlwRivK-huJ2A8RhAdyyWCUW1W21bqQsyPEm3xf4XIo3GdCGPmBP8Lkmbj8CNWa3QiwBLrLlouf7784_zfNKZ0PKv1TonOTM6FVToG2yEXeX1p8qQ9oyY6pahbTzLS8QQwJaNQQz7FZed-y_BIEqY4GGYegA9_xu4r2axBR-7NNim4OLX7_k-Z36bs9S9J7oW0wde5uFuucmd3dfDwuCzVLmqCiWQK8tM5SR4CblWNYIIb-kTQh5CugzjwybAJ0n6PyWEc1saa4JstynY7safZLD3tAEX38j60UDkWKGKpzDHROlX_6tBsgGBWEd2YLmWU2tT_u6r6JNtkeveLTdK345Wqhzm1KXuT_c0As592I_vPUGngSOWtI3PanRIPdu5d8AJsfi8O-gGNoZ9_dmF0PVk26-s4spj0DXXHLK12nO477Ya4sp-h0hNpY2SGKOeCXKxni-H6MGY4WDypOsLjiCaR04B-d87vFuUn953vDkEupQPtMNp5ODSaDyQYAWWjWEH9_SDNPYrSumt_aaYiYmP2acqk8kocEUIcv7FJh2y8RmjC315iZjubv9Tbc_tToByQvwEEMKDhmulj6OvuhIY9aoa8R8ZVl_HnPffrTWbIfaeDzsjZXA_pBAI53H42bSCQGvK-mtADJT6CtXVo8sMK1GjsC-lBOXCWpCTUakh7S6-eKP0s68OUkMHGqaUaHhAe4JCFlYLjfkxoNY3_AYmwr.DsPVPSbi3iqcaPmNHg3jXA</password>
+  </server>
+</servers>
+<profiles>
+  <profile>
+    <id>nextwork848-nextwork-devops-cicd848</id>
+    <activation>
+      <activeByDefault>true</activeByDefault>
+    </activation>
+    <repositories>
+      <repository>
+        <id>nextwork848-nextwork-devops-cicd848</id>
+        <url>https://nextwork848-814166119888.d.codeartifact.us-west-2.amazonaws.com/maven/nextwork-devops-cicd848/</url>
+      </repository>
+    </repositories>
+  </profile>
+</profiles>
+<mirrors>
+  <mirror>
+    <id>nextwork848-nextwork-devops-cicd848</id>
+    <name>nextwork848-nextwork-devops-cicd848</name>
+    <url>https://nextwork848-814166119888.d.codeartifact.us-west-2.amazonaws.com/maven/nextwork-devops-cicd848/</url>
+    <mirrorOf>*</mirrorOf>
+  </mirror>
+</mirrors>
+</settings>
